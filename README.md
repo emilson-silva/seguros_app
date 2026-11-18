@@ -1,3 +1,5 @@
+**Demo:** https://seguro-8f5ca.web.app
+
 # Seguros App — Desafio Técnico Flutter
 
 App de seguros (mobile + web, mesmo código) com **Flutter**, **BLoC**, **Firebase Auth** e **Cloud Firestore**.
