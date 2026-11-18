@@ -1,0 +1,13 @@
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+*.iml
+.vscode/
+.fvm/flutter_sdk
+.firebase/
+*.log
+.DS_Store
+# google-services.json / GoogleService-Info.plist: avalie se quer versionar (não são segredos, mas dependem do seu projeto)
